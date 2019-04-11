@@ -1,0 +1,21 @@
+LIBRARY
+
+EXPORTS
+	XPMPMultiplayerInit
+	XPMPMultiplayerEnable
+	XPMPMultiplayerDisable
+	XPMPMultiplayerCleanup
+	XPMPLoadCSLPackage
+	XPMPGetNumberOfInstalledModels
+	XPMPGetModelInfo
+	XPMPCreatePlane
+	XPMPCreatePlaneWithModelName
+	XPMPDestroyPlane
+	XPMPChangePlaneModel
+	XPMPSetDefaultPlaneICAO
+	XPMPCountPlanes
+	XPMPGetNthPlane
+	XPMPDumpOneCycle
+	XPMPEnableAircraftLabels
+	XPMPDisableAircraftLabels
+	XPMPDrawingAircraftLabels
